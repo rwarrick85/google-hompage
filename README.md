@@ -1,1 +1,2 @@
-# google-hompage
+# The Odin Project
+# www.TheOdinProject.com
